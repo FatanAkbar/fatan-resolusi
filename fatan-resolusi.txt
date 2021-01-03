@@ -2,3 +2,4 @@ Fatan Resolusi
 -
 - Konsisten belajar Web Programming
 - Belajar Python
+- Membuat portofolio web sendiri
